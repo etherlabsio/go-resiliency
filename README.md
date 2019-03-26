@@ -19,3 +19,7 @@ Currently implemented patterns include:
 Follows semantic versioning using https://gopkg.in/ - import from
 [`gopkg.in/eapache/go-resiliency.v1`](https://gopkg.in/eapache/go-resiliency.v1)
 for guaranteed API stability.
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fetherlabsio%2Fresiliency.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fetherlabsio%2Fresiliency?ref=badge_large)
